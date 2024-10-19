@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 
 1.**Clone the repository**:
 
-   git clone https://github.com/SaiVarshitha123-maroju/Zeotap.git
+   git clone https://github.com/SaiVarshitha123-maroju/Zeotapweather.git
    
 2.Navigate to the project directory:
 
