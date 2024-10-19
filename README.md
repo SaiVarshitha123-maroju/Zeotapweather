@@ -1,4 +1,4 @@
-# Real-Time Data Processing System for Weather Monitoring
+# : Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
 ## Description
 
@@ -25,7 +25,7 @@ To set up the project locally, follow these steps:
   cd weather-monitoring-system
   
 3.Install dependencies:
-  npm install
+   npm install
   
 4.Set up MongoDB:
 
